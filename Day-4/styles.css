@@ -1,0 +1,57 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* units:px -fixed,Relative-%,rem,em */
+.hanuman-box{
+    border:1px solid black;
+    height:400px;
+    padding:5px;
+    margin:10px auto;
+    width:300px;
+    border-radius: 10px;
+}
+
+ img{
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.form{
+    border:1px solid black;
+    height:300px;
+    width:400px;
+    margin:0px auto;
+    border-radius:20px;
+    box-sizing: border-box;
+    padding:10px;
+    background-image: url("google.png");
+    background-size: cover;
+    
+}
+
+input{
+    width:100%;
+    border-radius: 15px;
+    height:30px;
+    padding:5px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width:100%;
+    border-radius: 20px;
+    margin-top:10px;
+    height:30px;
+}
+h5{
+    text-align: center;
+}
+/* .google-img{
+    height:40px;
+    width:40px;
+    margin-top:18px;
+} */
