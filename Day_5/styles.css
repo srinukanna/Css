@@ -30,28 +30,30 @@ body{
     height:50px;
     width:50px;
     background-color: black;
+    position: absolute;
+    top:2px;
     
 }
 .red{
     height:50px;
     width:50px;
     background-color: red;
-   
-    top:2px;
-
+    /* position:relative; */
+    position:sticky;
+    top:500px;
+    left:300px;
 }
 
 .blue{
     height:50px;
     width:50px;
     background-color: blue;
-   
-
-    
+    /* position: relative; */
+    left:20px;
 }
 
 button{
     position:sticky;
     background-color: aquamarine;
-   
+    
 }
