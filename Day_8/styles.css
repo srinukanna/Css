@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar_menu{
+    height: 70px;
+    width:100vw;
+    border: 1px solid whitesmoke;
+    padding:8px;
+    display:flex;
+    gap:20px;
+    align-items: center;
+}
+
+
+.navbar_menu li a{
+    list-style: none;
+    
+}  
+

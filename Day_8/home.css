@@ -1,0 +1,25 @@
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box; 
+}
+body{
+    height: 100vh;
+    background-color: rgb(77, 194, 245);
+   background-image: url("digital-art-character-looking-moon.jpg");
+   background-size: cover;
+   position: relative;
+   background-repeat:no-repeat;
+}
+
+
+h1{
+    width: 100%;
+    text-align: center;
+    text-shadow:3px 0px rgb(77, 194, 245);
+    background-color: none;
+    color: rgb(162, 231, 231);
+    position: absolute;
+    top: 50%;
+    font-weight: 800;
+}
