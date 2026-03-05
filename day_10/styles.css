@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+.header{
+    position: relative;
+    height:300px;
+    width:300px;
+
+}
+
+img{
+    height:300px;
+    width:300px;
+}
+
+.heading{
+    position:absolute;
+    top:40px;
+    color:aliceblue
+}

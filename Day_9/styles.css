@@ -10,8 +10,8 @@
     width:100vw;
     height:100vh;
     display: flex;
-   
     flex-direction: row;
+    box-sizing: border-box;
     gap:40px;
 }
 
@@ -20,13 +20,11 @@
     height:300px;
     width:300px;
     padding:5px;
-    flex-shrink: 1;
+    flex-shrink: 0;
     box-sizing: border-box;
     border-radius:12px;
 }
-.card1{
 
-}
 
 .ayyappa,
 .ammaa,.curry{
